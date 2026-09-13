@@ -1,0 +1,10 @@
+{
+  "name": "Catatan Shopiput",
+  "short_name": "Shopiput",
+  "description": "Catatan pemasukan, pengeluaran, order, servis, hutang, dan tabungan.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff6a00",
+  "orientation": "portrait"
+}
